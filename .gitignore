@@ -1,5 +1,7 @@
 # Ignore object files
 obj/*.o
 
+
+
 # Ignore executable files
 bin/myapp
